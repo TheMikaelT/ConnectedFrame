@@ -1,0 +1,19 @@
+{
+  "name": "connectedframe",
+  "version": "0.0.1",
+  "description": "Tkinter Connected Frame",
+  "main": "connectedframe.py",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "resin.io",
+    "python",
+    "tkinter",
+    "picture",
+    "frame"
+  ],
+  "author": "Frederick Vandenbosch <f.vdbosch@gmail.com>",
+  "homepage": "http://frederickvandenbosch.be/?p=",
+  "license": "ISC"
+}
